@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "arvind-blog",
+    "description": "",
+    "home_page_url": "https://github.com/arv1ndrana/arvind",
+    "feed_url": "https://github.com/arv1ndrana/arvind/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Arvind Rana"
+    },
+    "items": [
+        {
+            "id": "https://github.com/arv1ndrana/arvind/starting-a-new-journey.html",
+            "url": "https://github.com/arv1ndrana/arvind/starting-a-new-journey.html",
+            "title": "Starting a new journey",
+            "summary": "Namaste! From Today! I am going to a self improvement journey. I am going to do meditation, exercise, daily journaling and self care everyday. I am going to leave watching porn, movies and playing video games. I might also join the taekwondo club. I will&hellip;",
+            "content_html": "<p>Namaste!</p>\n<p>From Today! I am going to a self improvement journey. I am going to do meditation, exercise, daily journaling and self care everyday. I am going to leave watching porn, movies and playing video games. I might also join the taekwondo club. I will definitely take care of my body and my mental health. I will become the best version of my life.</p>\n<p>Thank you!</p>",
+            "author": {
+                "name": "Arvind Rana"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-03T04:08:46+05:45",
+            "date_modified": "2025-02-03T04:08:46+05:45"
+        }
+    ]
+}
